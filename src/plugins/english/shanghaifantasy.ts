@@ -10,7 +10,7 @@ class ShanghaiFantasyPlugin implements Plugin.PluginBase {
   name = 'Shanghai Fantasy';
   icon = 'src/en/shanghaifantasy/icon.png';
   site = 'https://shanghaifantasy.com/';
-  version = '1.0.1';
+  version = '1.0.2';
   imageRequestInit?: Plugin.ImageRequestInit | undefined = undefined;
 
   //flag indicates whether access to LocalStorage, SesesionStorage is required.
